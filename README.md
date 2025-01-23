@@ -5,7 +5,9 @@
 
 Superstore Returns Analysis Project Overview
 
-    This project analyzes historical order and return data from Superstore to uncover the root causes of high return rates. By identifying trends across customers, product categories, and geographic regions, this analysis provides actionable insights to reduce returns and improve business profitability.
+    This project analyzes historical order and return data from Superstore to uncover the root causes 
+    of high return rates. By identifying trends across customers, product categories, and geographic 
+    regions, this analysis provides actionable insights to reduce returns and improve business profitability.
 
 Goals
 
@@ -20,7 +22,8 @@ Tools Used
 
 Key Findings
 
-    Product Categories: Certain categories consistently show higher return rates, indicating potential quality or customer expectation issues.
+    Product Categories: Certain categories consistently show higher return rates, indicating potential 
+    quality or customer expectation issues.
     Customer Behavior: Repeat customers with frequent orders account for a disproportionate share of returns.
     Geographic Insights: Some regions have significantly higher return rates than others.
     Seasonal Patterns: Returns spike during certain months, possibly tied to holidays or sales events.
@@ -33,7 +36,14 @@ File Structure
 
 Insights and Recommendations
 
-    Address High-Risk Categories: Identify what products are most returned, when those products are being returned and where products are being returned the most. From these we can begin to address any products, regions and seasons that need to be focused on.
-    Target High-Return Customers: Identify what customers have the highest return rates. We can touch bases with these customers and identify why products were returned and how we can improve on product retention.
-    Regional Strategy: Identify what regions or states are experiencing higher than average returns and begin to assess if there may be a distribution concern or sales concern.
-    Sales vs Returns Metrics: We can see how returns affect sales, and if there is any correlation between levels of sales and levels of returns. From this we can address potential sales training or staffing concerns to ensure our customers receive the correct product.
+    Address High-Risk Categories: Identify what products are most returned, when those products are 
+    being returned and where products are being returned the most. From these we can begin to address 
+    any products, regions and seasons that need to be focused on.
+    Target High-Return Customers: Identify what customers have the highest return rates. We can touch 
+    bases with these customers and identify why products were returned and how we can 
+    improve on product retention.
+    Regional Strategy: Identify what regions or states are experiencing higher than average returns and 
+    begin to assess if there may be a distribution concern or sales concern.
+    Sales vs Returns Metrics: We can see how returns affect sales, and if there is any correlation between 
+    levels of sales and levels of returns. From this we can address potential sales training or staffing 
+    concerns to ensure our customers receive the correct product.
