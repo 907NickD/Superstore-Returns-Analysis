@@ -1,7 +1,7 @@
 # Superstore-Returns-Analysis
 
 # PROJECT LINK
-    [https://public.tableau.com/shared/SJZ8PTQHW?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/SuperstoreReturnsAnalysis_17377371944480/SuperstoreReturns?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+    https://public.tableau.com/views/SuperstoreReturnsAnalysis_17377371944480/SuperstoreReturns?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Superstore Returns Analysis Project Overview
 
